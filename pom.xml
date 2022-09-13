@@ -81,12 +81,12 @@
         <repository>
           <id>nexus</id>
           <name>Releases</name>
-          <url>http://ec2-54-152-20-178.us-east-1.compute.amazonaws.com:8081/repository/maven-releases</url>
+          <url>http://ec2-3-82-108-111.compute-1.amazonaws.com:8081/repository/maven-releases</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>Snapshot</name>
-          <url>http://ec2-54-152-20-178.us-east-1.compute.amazonaws.com:8081/repository/maven-snapshots</url>
+          <url>http://ec2-3-82-108-111.compute-1.amazonaws.com:8081/repository/maven-snapshots</url>
         </snapshotRepository>
       </distributionManagement>
 
